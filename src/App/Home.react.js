@@ -116,7 +116,7 @@ class Home extends Component {
                 key="toolbar"
                 leftElement=""
                 onLeftElementPress={() => this.props.navigation.goBack()}
-                centerElement="Hello, Super Mama"
+                centerElement="Hello, Super Mama!"
                 searchable={{
 
                     autoFocus: true,
